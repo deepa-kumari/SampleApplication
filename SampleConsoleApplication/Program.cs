@@ -1,7 +1,4 @@
-﻿
-using System.IO;
-
-namespace SampleConsoleApplication
+﻿namespace SampleConsoleApplication
 {
     class Program
     {
