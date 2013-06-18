@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            string myString = "Hello Test123 456789";
+            string myString = "Hello";
             
         }
     }
